@@ -1,4 +1,4 @@
-<h1 align="center">🐉 genaadolf / experienced coder </h1>
+<h1 align="center">genaadolf / experienced coder </h1>
 
 ###
 
@@ -53,6 +53,7 @@
 ###
 
 <p align="center">
-  <img src="!https://github-readme-stats-fast.vercel.app/api?username=genaadolf131&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=genaadolf131&show_icons=true&theme=radical">
 </p>
+
 
